@@ -3,26 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.lnz.xyz/home/home/</loc>
+    <loc>https://shitface.xyz/</loc>
     <lastmod>2021-01-17T11:08:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lnz.xyz/home/</loc>
+    <loc>https://shitface.xyz/home/home/</loc>
     <lastmod>2021-01-17T11:08:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lnz.xyz/</loc>
+    <loc>https://shitface.xyz/home/</loc>
     <lastmod>2021-01-17T11:08:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.lnz.xyz/categories/</loc>
+    <loc>https://shitface.xyz/blog/</loc>
   </url>
   
   <url>
-    <loc>https://www.lnz.xyz/tags/</loc>
+    <loc>https://shitface.xyz/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shitface.xyz/tags/</loc>
   </url>
   
 </urlset>

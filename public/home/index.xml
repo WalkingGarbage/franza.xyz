@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on shitface</title>
-    <link>https://www.lnz.xyz/home/</link>
-    <description>Recent content in Homes on shitface</description>
+    <title>Homes on Hello Friend NG</title>
+    <link>https://shitface.xyz/home/</link>
+    <description>Recent content in Homes on Hello Friend NG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 17 Jan 2021 11:08:08 +0100</lastBuildDate><atom:link href="https://www.lnz.xyz/home/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 17 Jan 2021 11:08:08 +0100</lastBuildDate><atom:link href="https://shitface.xyz/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home</title>
-      <link>https://www.lnz.xyz/home/home/</link>
+      <link>https://shitface.xyz/home/home/</link>
       <pubDate>Sun, 17 Jan 2021 11:08:08 +0100</pubDate>
       
-      <guid>https://www.lnz.xyz/home/home/</guid>
+      <guid>https://shitface.xyz/home/home/</guid>
       <description></description>
     </item>
     
