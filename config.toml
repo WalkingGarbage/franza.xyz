@@ -1,4 +1,4 @@
-baseurl = "https://www.lnz.xyz/index.html"
+baseurl = "https://www.lnz.xyz/"
 title = "johndoe"
 theme = "hugo-coder"
 languagecode = "en"
