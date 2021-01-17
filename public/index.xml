@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>johndoe</title>
+    <title>shitface</title>
     <link>https://www.lnz.xyz/</link>
-    <description>Recent content on johndoe</description>
+    <description>Recent content on shitface</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.lnz.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Jan 2021 11:08:08 +0100</lastBuildDate><atom:link href="https://www.lnz.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://www.lnz.xyz/home/home/</link>
+      <pubDate>Sun, 17 Jan 2021 11:08:08 +0100</pubDate>
+      
+      <guid>https://www.lnz.xyz/home/home/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
