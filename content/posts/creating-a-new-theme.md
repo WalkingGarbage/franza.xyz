@@ -1,12 +1,17 @@
-+++ 
-date = "2014-09-28"
-title = "Creating a New Theme"
-slug = "creating-a-new-theme"
-tags = []
-categories = []
-series = ["Theme", "Hugo"]
-authors = ["John Doe"]
-+++
+---
+author:
+  name: "Michael Henderson"
+date: 2014-09-28
+linktitle: Creating a New Theme
+type:
+- post
+- posts
+title: Creating a New Theme
+weight: 10
+series:
+- Hugo 101
+---
+
 
 ## Introduction
 
@@ -24,7 +29,7 @@ $ echo this is a command
 this is a command
 
 ## edit the file
-$vi foo.md
+$ vi foo.md
 +++
 date = "2014-09-28"
 title = "creating a new theme"
@@ -309,7 +314,7 @@ Edit the file to add the theme, add a title for the site, and specify that all o
 ```
 $ vi config.toml
 theme = "zafta"
-baseURL = ""
+baseurl = ""
 languageCode = "en-us"
 title = "zafta - totally refreshing"
 MetaDataFormat = "toml"
