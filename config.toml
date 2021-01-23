@@ -1,7 +1,7 @@
 baseURL = "https://www.franza.xyz/"
 title   = "Francesco Lanza"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+#heme = "hello-friend-ng"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
