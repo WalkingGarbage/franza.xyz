@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Francesco Lanza"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "My experimental portfolio"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
