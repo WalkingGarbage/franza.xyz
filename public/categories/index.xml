@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on shitface</title>
-    <link>https://www.lnz.xyz/categories/</link>
-    <description>Recent content in Categories on shitface</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.lnz.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Francesco Lanza</title><link>https://example.com/categories/</link><description>Recent content in Categories on Francesco Lanza</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Development</title><link>https://example.com/categories/development/</link><pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate><guid>https://example.com/categories/development/</guid><description/></item><item><title>blog</title><link>https://example.com/categories/blog/</link><pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate><guid>https://example.com/categories/blog/</guid><description/></item><item><title>golang</title><link>https://example.com/categories/golang/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>https://example.com/categories/golang/</guid><description/></item></channel></rss>

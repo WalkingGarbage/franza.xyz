@@ -10,3 +10,6 @@
 [submodule "content/projects/tilde"]
 	path = content/projects/tilde
 	url = https://github.com/WalkingGarbage/tilde
+[submodule "themes/themes/color-your-world"]
+	path = themes/themes/color-your-world
+	url = https://gitlab.com/rmaguiar/hugo-theme-color-your-world.git
